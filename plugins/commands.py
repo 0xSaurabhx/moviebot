@@ -23,7 +23,7 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/m4dlmovies')
+                InlineKeyboardButton('⚡ UᎮDΛTΞS ⚡', url='https://t.me/IndieAnime')
             ],
             [
                 InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url=f"https://t.me/+W_BW1fUCMjExZDhl"),
@@ -48,7 +48,7 @@ async def start(client, message):
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/+W_BW1fUCMjExZDhl'),
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/m4dlmovies')
+            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/IndieAnime')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
@@ -94,7 +94,7 @@ async def start(client, message):
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
             InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/+W_BW1fUCMjExZDhl'),
-            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/m4dlmovies')
+            InlineKeyboardButton('🤖 UᎮDΛTΞS 🤖', url='https://t.me/IndieAnime')
             ],[
             InlineKeyboardButton('♻️ HΞLᎮ ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ΛBOUT ♻️', callback_data='about')
